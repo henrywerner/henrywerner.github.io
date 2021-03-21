@@ -2,7 +2,7 @@ title: Henry Werner # Shown in header on pages with full_logo: true
 short_logo: HW # Shown in header on all pages by default unless full_logo: true is set
 description: > # The description for your site
   Portfolio.
-url: "https://henrywerner.github.io/main" # Site base URL
+url: "https://henrywerner.github.io" # Site base URL
 
 author:
   name: Henry Werner

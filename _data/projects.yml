@@ -1,0 +1,65 @@
+- name: Bowling.
+  id: bowling
+  img_src: /assets/img/bowling-thumbnail2.png
+  description_less: > # Description shown at all times
+    <p>A bowling game with an atmospheric horror twist.</p> 
+  description_more: > # Description shown only when the project card is expanded
+    <p>Developed over the course of seven days as part of the October 2020 HackUTD game jam. I contributed the code for the game's systems and logic.</p> 
+
+    <a href="/unreleased" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-align-right"></i> &nbsp Project Write-Up</a>
+    <a href="https://cameronmeyer.itch.io/bowling" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-gamepad"></i> &nbsp Itch.io Page</a>
+    <a href="https://github.com/arsylvester/bowling." target="_blank" class="btn btn-dark mb-1"><i class="fas fa-code-branch"></i> &nbsp Repository</a>
+  
+  tags: [games, unity, c-sharp] # A list of tags
+
+- name: Portfolio Site
+  id: portfolio_site
+  description_less: >
+    <p>This site that you're viewing right now. :)</p>
+  description_more: >
+    <p>This site uses a modified version of <a href="https://github.com/ritijjain/pudhina-fresh">Pudhina Fresh</a> theme.</p>
+    <a href="https://github.com/henrywerner/henrywerner.github.io" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-code-branch"></i> &nbsp Repository</a> 
+
+  tags: [jekyll, html, css]
+
+- name: utdsgda.club
+  id: sgda
+  description_less: >
+    <p>Club website for the Student Game Developer Association at UT Dallas.</p>
+  description_more: >
+    <a href="/unreleased" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-align-right"></i> &nbsp Project Write-Up</a>
+    <a href="https://utdsgda.club/" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-link"></i> &nbsp Visit Site</a>
+    <a href="https://github.com/utd-sgda/utd-sgda.github.io" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-code-branch"></i> &nbsp Repository</a> 
+
+  tags: [jekyll, html, css]
+
+- name: Autosplitters
+  id: autosplitters
+  img_src: /assets/img/autosplitter-thumbnail2.png
+  description_less: > 
+    <p>Speedrunning scripts that monitor a game process' data.</p> 
+  description_more: > 
+    <p>Uses pointers to track elements of the game state in RAM. Developed by reverse engineering how a game was managing data.</p> 
+
+    <a href="/unreleased" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-align-right"></i> &nbsp Project Write-Up</a>
+    <a href="https://github.com/henrywerner/Darnation-Autosplitter" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-code-branch"></i> &nbsp Repository</a>
+
+  tags: [games, c-sharp] 
+
+- name: Grid Navigation AI
+  id: grid-ai
+  description_less: >
+    <p>A simple AI that uses A* Search to solve 10x10 grid mazes.</p>
+  description_more: >
+    <a href="https://github.com/henrywerner/grid-ai" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-code-branch"></i> &nbsp Repository</a> 
+
+  tags: [java, class-work]
+
+- name: Semaphore Demo
+  id: semaphores
+  description_less: >
+    <p>Utilizes Linux semaphores and shared memory to communicate between forked processes.</p>
+  description_more: >
+    <a href="https://github.com/henrywerner/osc_pgm2" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-code-branch"></i> &nbsp Repository</a> 
+
+  tags: [c++, class-work]

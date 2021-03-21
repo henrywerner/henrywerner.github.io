@@ -42,7 +42,7 @@
     <p>Uses pointers to track elements of the game state in RAM. Developed by reverse engineering how a game was managing data.</p> 
 
     <a href="/unreleased" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-align-right"></i> &nbsp Project Write-Up</a>
-    <a href="https://github.com/henrywerner/Darnation-Autosplitter" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-code-branch"></i> &nbsp Repository</a>
+    <a href="https://github.com/henrywerner?tab=repositories&q=&type=&language=asl" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-code-branch"></i> &nbsp Repositories</a>
 
   tags: [games, c-sharp] 
 

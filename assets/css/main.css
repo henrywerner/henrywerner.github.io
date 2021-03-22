@@ -1,4 +1,5 @@
 @charset "UTF-8";
+@import url(https://use.typekit.net/cxx8otu.css);
 /* =Base *//*************************************************************/
   /*
   body {
@@ -68,9 +69,12 @@
     float: left; }
 
   .logo, a.logo:hover {
+    font-family: neue-haas-grotesk-display, sans-serif;
+    font-weight: 600;
+    font-style: normal;
     font-size: 300%;
-    font-weight: 700;
-    color: #16a085;
+    letter-spacing: 1px;
+    color: #3ba68d;
     display: block;
     text-decoration: none; }
 

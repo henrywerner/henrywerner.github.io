@@ -1,12 +1,12 @@
 - name: Bowling.
   id: bowling
-  img_src: /assets/img/bowling-thumbnail2.png
+  img_src: /assets/img/bowling-thumbnail4.png
   description_less: > # Description shown at all times
     <p>A bowling game with an atmospheric horror twist.</p> 
   description_more: > # Description shown only when the project card is expanded
     <p>Developed over the course of seven days as part of the October 2020 HackUTD game jam. I contributed the code for the game's systems and logic.</p> 
 
-    <a href="/unreleased" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-align-right"></i> &nbsp Project Write-Up</a>
+    <a href="/2021/03/21/bowling.html" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-align-right"></i> &nbsp Project Write-Up</a>
     <a href="https://cameronmeyer.itch.io/bowling" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-gamepad"></i> &nbsp Itch.io Page</a>
     <a href="https://github.com/arsylvester/bowling." target="_blank" class="btn btn-dark mb-1"><i class="fas fa-code-branch"></i> &nbsp Repository</a>
   
@@ -17,16 +17,17 @@
   description_less: >
     <p>This site that you're viewing right now. :)</p>
   description_more: >
-    <p>This site uses a modified version of <a href="https://github.com/ritijjain/pudhina-fresh">Pudhina Fresh</a> theme.</p>
+    <p>This site uses a modified version of Pudhina Fresh theme.</p>
     <a href="https://github.com/henrywerner/henrywerner.github.io" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-code-branch"></i> &nbsp Repository</a> 
 
   tags: [jekyll, html, css]
 
 - name: utdsgda.club
-  id: sgda
+  id: sgda_site
   description_less: >
     <p>Club website for the Student Game Developer Association at UT Dallas.</p>
   description_more: >
+    <p>Built from the ground up to assist the club's transition to online-only for the spring 2020 semester. The site's codebase was designed to be accessible to non-experienced coders.</p>
     <a href="/unreleased" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-align-right"></i> &nbsp Project Write-Up</a>
     <a href="https://utdsgda.club/" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-link"></i> &nbsp Visit Site</a>
     <a href="https://github.com/utd-sgda/utd-sgda.github.io" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-code-branch"></i> &nbsp Repository</a> 
@@ -63,3 +64,13 @@
     <a href="https://github.com/henrywerner/osc_pgm2" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-code-branch"></i> &nbsp Repository</a> 
 
   tags: [c++, class-work]
+
+- name: SGDA Stream Graphics
+  id: sgda_graphics
+  description_less: >
+    <p>Graphics suite used for live streams.</p>
+  description_more: >
+    <p>Expands upon the club's existing design language while staying cohesive to existing club branding.</p>  
+    <a href="/unreleased" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-align-right"></i> &nbsp Project Write-Up</a> 
+
+  tags: [UI, graphics]

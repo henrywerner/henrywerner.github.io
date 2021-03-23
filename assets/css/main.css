@@ -99,7 +99,8 @@
     float: right;
     font-size: 150%;
     color: #828282;
-    list-style-type: none; }
+    list-style-type: none;
+    margin-top: 15px; }
 
   .social-links__entry {
     display: inline-block;

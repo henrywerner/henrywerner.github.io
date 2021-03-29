@@ -1,5 +1,15 @@
 @charset "UTF-8";
 @import url(https://use.typekit.net/cxx8otu.css);
+
+@font-face {
+  font-family: Akkurat-Mono;
+  src: url(/assets/fonts/Akkurat-Mono.woff);
+}
+
+@font-face {
+  font-family: Akkurat-Normal;
+  src: url(/assets/fonts/Akkurat-Normal.ttf);
+}
 /* =Base *//*************************************************************/
   /*
   body {
@@ -15,10 +25,11 @@
 
   p, ul, ol, dl {
     font-size: 100%;
-    line-height: 32px; }
+    line-height: 160%; }
   
   h1, h2, h3, h4, h5, h6 {
     color: #212529;
+    font-family: Akkurat-Normal;
     padding-top: 20px;
     font-weight: 500; }
 
@@ -69,17 +80,17 @@
     float: left; }
 
   .logo, a.logo:hover {
-    font-family: neue-haas-grotesk-display, sans-serif;
+    font-family: Akkurat-Normal;
     font-weight: 600;
     font-style: normal;
     font-size: 300%;
-    letter-spacing: 1px;
     color: #3ba68d;
     display: block;
     text-decoration: none; }
 
   .menu {
     color: #828282;
+    font-family: Akkurat-Mono;
     font-size: 150%;
     margin: 0px;
     margin-top: 6px;

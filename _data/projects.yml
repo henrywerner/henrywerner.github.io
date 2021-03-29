@@ -1,6 +1,6 @@
 - name: Bowling.
   id: bowling
-  img_src: /assets/img/bowling-thumbnail4.png
+  img_src: /assets/img/bowling-thumbnail5.png
   description_less: > # Description shown at all times
     <p>A bowling game with an atmospheric horror twist.</p> 
   description_more: > # Description shown only when the project card is expanded
@@ -36,7 +36,7 @@
 
 - name: Autosplitters
   id: autosplitters
-  img_src: /assets/img/autosplitter-thumbnail2.png
+  img_src: /assets/img/autosplitter-thumbnail4.png
   description_less: > 
     <p>Speedrunning scripts that monitor a game process' data.</p> 
   description_more: > 

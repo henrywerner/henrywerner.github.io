@@ -28,7 +28,7 @@
     <p>Club website for the Student Game Developer Association at UT Dallas.</p>
   description_more: >
     <p>Built from the ground up to assist the club's transition to online-only for the spring 2020 semester. The site's codebase was designed to be accessible to non-experienced coders.</p>
-    <a href="/unreleased" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-align-right"></i> &nbsp Project Write-Up</a>
+  
     <a href="https://utdsgda.club/" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-link"></i> &nbsp Visit Site</a>
     <a href="https://github.com/utd-sgda/utd-sgda.github.io" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-code-branch"></i> &nbsp Repository</a> 
 
@@ -40,9 +40,8 @@
   description_less: > 
     <p>Speedrunning scripts that monitor a game process' data.</p> 
   description_more: > 
-    <p>Uses pointers to track elements of the game state in RAM. Developed by reverse engineering how a game was managing data.</p> 
+    <p>Uses pointers to track elements of the game state in RAM. Developed by reverse engineering how a game was managing data. These scripts accurately time how fast a user completes a game's levels by subtracting loading times.</p> 
 
-    <a href="/unreleased" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-align-right"></i> &nbsp Project Write-Up</a>
     <a href="https://github.com/henrywerner?tab=repositories&q=&type=&language=asl" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-code-branch"></i> &nbsp Repositories</a>
 
   tags: [games, c-sharp] 
@@ -64,13 +63,3 @@
     <a href="https://github.com/henrywerner/osc_pgm2" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-code-branch"></i> &nbsp Repository</a> 
 
   tags: [c++, class-work]
-
-- name: SGDA Stream Graphics
-  id: sgda_graphics
-  description_less: >
-    <p>Graphics suite used for live streams.</p>
-  description_more: >
-    <p>Expands upon the club's existing design language while staying cohesive to existing club branding.</p>  
-    <a href="/unreleased" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-align-right"></i> &nbsp Project Write-Up</a> 
-
-  tags: [UI, graphics]

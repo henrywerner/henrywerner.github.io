@@ -90,7 +90,6 @@
 
   .menu {
     color: #828282;
-    font-family: Akkurat-Mono;
     font-size: 150%;
     margin: 0px;
     margin-top: 6px;
@@ -237,6 +236,15 @@
       display: block;
       text-align: right;
       width: 100%; }
+
+    .logo {
+      display: block;
+      text-align: right;
+      font-size: 290%; }
+
+    .menu {
+      margin-top: 0px;
+    }
 
     .social-links {
       font-size: 200%;

@@ -12,16 +12,6 @@
   
   tags: [games, unity, c-sharp] # A list of tags
 
-- name: Portfolio Site
-  id: portfolio_site
-  description_less: >
-    <p>This site that you're viewing right now. :)</p>
-  description_more: >
-    <p>This site uses a modified version of Pudhina Fresh theme.</p>
-    <a href="https://github.com/henrywerner/henrywerner.github.io" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-code-branch"></i> &nbsp Repository</a> 
-
-  tags: [jekyll, html, css]
-
 - name: utdsgda.club
   id: sgda_site
   description_less: >
@@ -45,6 +35,30 @@
     <a href="https://github.com/henrywerner?tab=repositories&q=&type=&language=asl" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-code-branch"></i> &nbsp Repositories</a>
 
   tags: [games, c-sharp] 
+
+
+- name: Portfolio Site
+  id: portfolio_site
+  description_less: >
+    <p>This site that you're viewing right now. :)</p>
+  description_more: >
+    <p>This site uses a modified version of Pudhina Fresh theme.</p>
+    <a href="https://github.com/henrywerner/henrywerner.github.io" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-code-branch"></i> &nbsp Repository</a> 
+
+  tags: [jekyll, html, css]
+
+- name: Crossheir to the Throne
+  id: crossheir
+  img_src: /assets/img/crossheir-thumbnail.png
+  description_less: >
+    <p>A FPS game about speed and accuracy.</p>
+  description_more: >
+    <p>Developed in seven days for the 2021 SGDA Spring Game Jam. I contributed the game's weapon mechanics, player movement, and UI.</p> 
+
+    <a href="https://indyandy.itch.io/crossheir-to-the-throne" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-gamepad"></i> &nbsp Itch.io Page</a>
+    <a href="https://github.com/arsylvester/SpringGameJam" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-code-branch"></i> &nbsp Repository</a>
+  
+  tags: [games, unity, c-sharp]
 
 - name: Grid Navigation AI
   id: grid-ai

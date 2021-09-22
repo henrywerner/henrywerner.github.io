@@ -22,7 +22,6 @@
     color: #57A;
     text-decoration: none; }
   
-
   p, ul, ol, dl {
     font-size: 100%;
     line-height: 160%; }
@@ -500,3 +499,7 @@
   /* Custom */
   .go-home {
     text-align: center; }
+
+  .card-title {
+    text-decoration: none !important;
+  }

@@ -12,6 +12,18 @@
   
   tags: [games, unity, c-sharp] # A list of tags
 
+- name: C'est La Vie
+  id: cest_la_vie
+  description_less: >
+    <p>A retro RPG with a focus on player creativity and problem solving.</p> 
+  description_more: > # Description shown only when the project card is expanded
+    <p>Developed over 13 days as an entry for the Dallas Society of Play <i>Pompous Trash Jam</i>, in which is was voted "Best Overall". I was highly involved in many areas of the programming and game design.</p> 
+
+    <a href="https://cameronmeyer.itch.io/cest-la-vie" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-gamepad"></i> &nbsp Itch.io Page</a>
+    <a href="https://itch.io/jam/pompous-trash/results" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-link"></i> &nbsp Game Jam Scoring Results</a>
+
+  tags: [games, unity, c-sharp] # A list of tags
+
 - name: utdsgda.club
   id: sgda_site
   description_less: >
